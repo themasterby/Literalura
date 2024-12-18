@@ -4,7 +4,7 @@
 
 _Bienvenido al challenge de Literalura! un challenge propuesto por parte de Alura para la puesta en práctica de los conocimientos obtenidos a lo largo de su formación de Java Spring Boot con manejo de APIs y persistencia de datos con PostgreSQL._
 
-## Caracteríisticas ⚙️
+## Características ⚙️
 
 1. **Búsqueda de libros:** Permite buscar libros por título usando la API de Gutendex.
 2. **Almacenamiento en base de datos:** Guarda la información de libros, autores y lenguajes en una base de datos PostgreSQL.
